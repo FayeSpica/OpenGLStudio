@@ -1,0 +1,15 @@
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\lab2.x.exe.config
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\lab2.x.exe
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\lab2.x.pdb
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.xx.csprojResolveAssemblyReference.cache
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.Form1.resources
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.Properties.Resources.resources
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.关于.resources
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.xx.csproj.GenerateResource.Cache
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.exe
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.pdb
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\SharpGL.dll
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\SharpGL.SceneGraph.dll
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\SharpGL.Serialization.dll
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\bin\Release\SharpGL.WinForms.dll
+W:\大三\计算机图形学\OpenGL\Lab2\lab2.xx\lab2.x\obj\Release\lab2.x.MyPropertyGrid.resources
